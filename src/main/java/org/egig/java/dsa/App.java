@@ -1,4 +1,4 @@
-package org.egig.java;
+package org.egig.java.dsa;
 
 /**
  * Hello world!
